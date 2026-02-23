@@ -84,3 +84,6 @@ docs/api
 # Rider
 .idea/
 .idea_modules/
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/

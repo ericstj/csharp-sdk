@@ -68,6 +68,9 @@
     <Project Path="src/ModelContextProtocol.Core/ModelContextProtocol.Core.csproj" />
     <Project Path="src/ModelContextProtocol/ModelContextProtocol.csproj" />
   </Folder>
+  <Folder Name="/perf/">
+    <Project Path="perf/ModelContextProtocol.Benchmarks/ModelContextProtocol.Benchmarks.csproj" />
+  </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/ModelContextProtocol.Analyzers.Tests/ModelContextProtocol.Analyzers.Tests.csproj" />
     <Project Path="tests/ModelContextProtocol.AotCompatibility.TestApp/ModelContextProtocol.AotCompatibility.TestApp.csproj" />
